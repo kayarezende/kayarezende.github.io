@@ -31,7 +31,7 @@
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.7",
     "chart.js": "^3.9.1",
-    "fuse.js": "^6.6.2",
+    "fuse.js": "^7.1.0",
     "katex": "^0.16.2",
     "mermaid": "^9.1.7",
     "prettier": "^2.7.1",
